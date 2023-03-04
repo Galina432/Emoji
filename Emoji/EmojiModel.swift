@@ -13,3 +13,5 @@ struct Emoji {
     var description: String
     var isFavourite: Bool
 }
+
+// Сегодня 4 март 2023.
